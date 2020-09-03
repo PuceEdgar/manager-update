@@ -1,0 +1,18 @@
+**************** STARTING MANAGER UPDATE ****************
+2019-02-11 15:16:43 Trying to connect to oracle..
+2019-02-11 15:16:46 Connected to HR db!
+2019-02-11 15:16:49 Executing stored procedure in Oracle db
+2019-02-11 15:17:02 Trying to connect to wsp2971a..
+2019-02-11 15:17:04 Connected to wsp2971a..
+2019-02-11 15:17:06 Truncated table [OrsXml].[dbo].[maint.ManagersFromHRDB]
+2019-02-11 15:17:09 Executing insert into....
+2019-02-11 15:18:52 Extract and import part is DONE!
+**************** STARTING MANAGER UPDATE ****************
+2019-02-11 16:02:58 Trying to connect to oracle..
+2019-02-11 16:03:00 Connected to HR db!
+2019-02-11 16:03:00 Executing stored procedure in Oracle db
+2019-02-11 16:03:05 Trying to connect to wsp2971a..
+2019-02-11 16:03:05 Connected to wsp2971a..
+2019-02-11 16:03:05 Truncated table [OrsXml].[dbo].[maint.ManagersFromHRDB]
+2019-02-11 16:03:05 Executing insert into....
+2019-02-11 16:03:52 Extract and import part is DONE!
